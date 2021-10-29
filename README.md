@@ -2,7 +2,7 @@
 
 This project is intented to give a **rough** estimate of a database size.
 
-Do not use this as a definitive answer, because some operations might be done under the hood by each database implementation might vary.
+Do not use this as a definitive answer, because some there might be some operations done under the hood by each database implementation.
 
 The average calculation is a simple arithmetic average, so don't expect much.
 
