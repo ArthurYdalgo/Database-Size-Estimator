@@ -1,4 +1,4 @@
-# Database-Size-Estimator
+# Database Size Estimator
 
 This project is intented to give a **rough** estimate of a database size.
 
